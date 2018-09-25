@@ -1,0 +1,42 @@
+<students>
+       <students id='1'>
+	       <name>john doe</name>
+		   <address>
+		        <house_no>38</house_no>
+				<road_no>3</road_no>
+				<location>banani</location>
+				<city>dhaka</city>
+		   </address>
+           <department>sales</department>
+           <salary>$20000</salary>		   
+       </students>
+
+       <students id='2'>
+	       <name>mark zuckerberg</name>
+		   <address>
+		        <house_no>20</house_no>
+				<flat_no>a/1</flat_no>
+				<road_no>18</road_no>
+				<location>mirpur</location>
+				<city>dhaka</city>
+		   </address>
+           <department>accounts</department>
+           <salary>$12000</salary>		   
+       </students>	
+
+       <students id='3'>
+	       <name>ala voski</name>
+		   <address>
+		        <house_no>38</house_no>
+				<road_no>3</road_no>
+				<location>motijhil</location>
+				<city>dhaka</city>
+		   </address>
+           <department>human resource</department>
+           <salary>$30000</salary>		   
+       </students>	   
+
+</student>	
+
+   
+	          
